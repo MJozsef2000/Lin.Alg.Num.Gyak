@@ -1,4 +1,5 @@
-M = input('K�rem adja meg a m�trixot!\n');
+% Sorösszeg Norma -By Pocó
+M = input('Kérem adja meg a mátrixot!\n');
 max = 0;
 for i = 1 : size(M,1)
     temp = 0;
