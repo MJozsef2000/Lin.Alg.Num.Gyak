@@ -1,4 +1,5 @@
-M = input('K�rem adja meg a m�trixot!\n');
+% Oszlop Összeg Norma - By Pocó
+M = input('Kérem adja meg a mátrixot!\n');
 max = 0;
 for j = 1 : size(M,2)
     temp = 0;
