@@ -1,6 +1,6 @@
 function max = OON(A)
-%Oszlop összeg norma függvény stílusban a Cond() függvényhez
-%- by Pocó
+%Oszlop Ã¶sszeg norma fÃ¼ggvÃ©ny stÃ­lusban a Cond() fÃ¼ggvÃ©nyhez 
+%- by PocÃ³
 max = 0;
 for j = 1 : size(A,2)
     temp = 0;
