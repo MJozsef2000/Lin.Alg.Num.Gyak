@@ -1,5 +1,5 @@
-function result = Cond(A) %A = Mátrix
-%Egz kond\ci= sy'mol= program, amely az oszlop összeg norma (OON) függvényt
-%használja
-%-by Pocó
-result = OON(A) * OON(inv(A));
+function result = Cond(A) %A = MÃ¡trix
+%Egz kond\ci= sy'mol= program, amely az oszlop Ã¶sszeg norma (OON) fÃ¼ggvÃ©nyt
+%hasznÃ¡lja
+%-by PocÃ³
+result = OON(A) * OON(inv(A)); 
